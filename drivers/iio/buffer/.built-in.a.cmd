@@ -1,0 +1,1 @@
+cmd_drivers/iio/buffer/built-in.a := rm -f drivers/iio/buffer/built-in.a; arm-none-linux-gnueabihf-ar cDPrST drivers/iio/buffer/built-in.a drivers/iio/buffer/industrialio-triggered-buffer.o drivers/iio/buffer/kfifo_buf.o

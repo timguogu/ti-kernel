@@ -1,0 +1,76 @@
+!<thin>
+//                                              654       `
+tty_io.o/
+n_tty.o/
+tty_ioctl.o/
+tty_ldisc.o/
+tty_buffer.o/
+tty_port.o/
+tty_mutex.o/
+tty_ldsem.o/
+tty_baudrate.o/
+tty_jobctrl.o/
+n_null.o/
+pty.o/
+sysrq.o/
+vt/vt_ioctl.o/
+vt/vc_screen.o/
+vt/selection.o/
+vt/keyboard.o/
+vt/consolemap.o/
+vt/consolemap_deftbl.o/
+vt/vt.o/
+vt/defkeymap.o/
+hvc/hvc_console.o/
+serial/serial_core.o/
+serial/earlycon.o/
+serial/8250/8250_core.o/
+serial/8250/8250_port.o/
+serial/8250/8250_dma.o/
+serial/8250/8250_pci.o/
+serial/8250/8250_exar.o/
+serial/8250/8250_early.o/
+serial/8250/8250_fsl.o/
+serial/8250/8250_omap.o/
+serial/8250/8250_of.o/
+serial/bcm63xx_uart.o/
+serial/serial_mctrl_gpio.o/
+serdev/core.o/
+serdev/serdev-ttyport.o/
+/0              0           0     0     644     54224     `
+/10             0           0     0     644     23088     `
+/19             0           0     0     644     16376     `
+/32             0           0     0     644     13236     `
+/45             0           0     0     644     12216     `
+/59             0           0     0     644     24140     `
+/71             0           0     0     644     3556      `
+/84             0           0     0     644     4924      `
+/97             0           0     0     644     4800      `
+/113            0           0     0     644     10044     `
+/128            0           0     0     644     3364      `
+/138            0           0     0     644     15368     `
+/145            0           0     0     644     21584     `
+/154            0           0     0     644     21680     `
+/169            0           0     0     644     11080     `
+/185            0           0     0     644     8268      `
+/201            0           0     0     644     39800     `
+/216            0           0     0     644     13032     `
+/233            0           0     0     644     1772      `
+/257            0           0     0     644     74432     `
+/266            0           0     0     644     10488     `
+/282            0           0     0     644     16364     `
+/301            0           0     0     644     51712     `
+/323            0           0     0     644     6232      `
+/342            0           0     0     644     20244     `
+/367            0           0     0     644     49432     `
+/392            0           0     0     644     7536      `
+/416            0           0     0     644     46648     `
+/440            0           0     0     644     13504     `
+/465            0           0     0     644     5540      `
+/491            0           0     0     644     2812      `
+/515            0           0     0     644     23612     `
+/540            0           0     0     644     12408     `
+/563            0           0     0     644     12396     `
+/586            0           0     0     644     10384     `
+/614            0           0     0     644     22044     `
+/629            0           0     0     644     5968      `

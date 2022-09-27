@@ -1,0 +1,53 @@
+!<thin>
+//                                              458       `
+core.o/
+dummy.o/
+fixed-helper.o/
+helpers.o/
+devres.o/
+of_regulator.o/
+fixed.o/
+cpcap-regulator.o/
+act8945a-regulator.o/
+gpio-regulator.o/
+lp873x-regulator.o/
+lp87565-regulator.o/
+palmas-regulator.o/
+pbias-regulator.o/
+stpmic1_regulator.o/
+ti-abb-regulator.o/
+tps62360-regulator.o/
+tps65023-regulator.o/
+tps6507x-regulator.o/
+tps65090-regulator.o/
+tps65217-regulator.o/
+tps65218-regulator.o/
+tps6524x-regulator.o/
+tps6586x-regulator.o/
+tps65910-regulator.o/
+
+/0              0           0     0     644     100084    `
+/8              0           0     0     644     4176      `
+/17             0           0     0     644     1840      `
+/33             0           0     0     644     23976     `
+/44             0           0     0     644     13504     `
+/54             0           0     0     644     12360     `
+/70             0           0     0     644     7300      `
+/79             0           0     0     644     22080     `
+/98             0           0     0     644     10828     `
+/120            0           0     0     644     8576      `
+/138            0           0     0     644     7340      `
+/158            0           0     0     644     8004      `
+/179            0           0     0     644     24900     `
+/199            0           0     0     644     7920      `
+/218            0           0     0     644     13756     `
+/239            0           0     0     644     14224     `
+/259            0           0     0     644     11324     `
+/281            0           0     0     644     11520     `
+/303            0           0     0     644     8680      `
+/325            0           0     0     644     12744     `
+/347            0           0     0     644     8428      `
+/369            0           0     0     644     10016     `
+/391            0           0     0     644     9408      `
+/413            0           0     0     644     15532     `
+/435            0           0     0     644     17984     `

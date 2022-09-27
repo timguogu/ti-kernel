@@ -1,0 +1,1 @@
+cmd_drivers/hwmon/built-in.a := rm -f drivers/hwmon/built-in.a; arm-none-linux-gnueabihf-ar cDPrST drivers/hwmon/built-in.a drivers/hwmon/hwmon.o drivers/hwmon/gpio-fan.o drivers/hwmon/iio_hwmon.o drivers/hwmon/lm90.o drivers/hwmon/lm95245.o drivers/hwmon/tmp102.o

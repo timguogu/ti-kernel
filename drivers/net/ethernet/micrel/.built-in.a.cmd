@@ -1,0 +1,1 @@
+cmd_drivers/net/ethernet/micrel/built-in.a := rm -f drivers/net/ethernet/micrel/built-in.a; arm-none-linux-gnueabihf-ar cDPrST drivers/net/ethernet/micrel/built-in.a drivers/net/ethernet/micrel/ks8851_common.o drivers/net/ethernet/micrel/ks8851_spi.o

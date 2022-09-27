@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/panel/built-in.a := rm -f drivers/gpu/drm/panel/built-in.a; arm-none-linux-gnueabihf-ar cDPrST drivers/gpu/drm/panel/built-in.a drivers/gpu/drm/panel/panel-simple.o drivers/gpu/drm/panel/panel-osd-osd101t2587-53ts.o

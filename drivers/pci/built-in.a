@@ -1,0 +1,81 @@
+!<thin>
+//                                              622       `
+access.o/
+bus.o/
+probe.o/
+host-bridge.o/
+remove.o/
+pci.o/
+pci-driver.o/
+search.o/
+pci-sysfs.o/
+rom.o/
+setup-res.o/
+irq.o/
+vpd.o/
+setup-bus.o/
+vc.o/
+mmap.o/
+setup-irq.o/
+pcie/portdrv_core.o/
+pcie/portdrv_pci.o/
+pcie/err.o/
+pcie/aspm.o/
+pcie/pme.o/
+proc.o/
+slot.o/
+of.o/
+quirks.o/
+msi.o/
+pci-label.o/
+syscall.o/
+endpoint/pci-ep-cfs.o/
+endpoint/pci-epc-core.o/
+endpoint/pci-epf-core.o/
+endpoint/pci-epc-mem.o/
+endpoint/functions/pci-epf-test.o/
+endpoint/functions/pci-epf-ntb.o/
+controller/cadence/pcie-cadence.o/
+controller/cadence/pcie-cadence-host.o/
+controller/cadence/pcie-cadence-ep.o/
+controller/cadence/pci-j721e.o/
+
+/0              0           0     0     644     29648     `
+/10             0           0     0     644     10452     `
+/17             0           0     0     644     51164     `
+/26             0           0     0     644     3728      `
+/41             0           0     0     644     5988      `
+/51             0           0     0     644     119884    `
+/58             0           0     0     644     21336     `
+/72             0           0     0     644     9056      `
+/82             0           0     0     644     21772     `
+/95             0           0     0     644     5256      `
+/102            0           0     0     644     10252     `
+/115            0           0     0     644     2952      `
+/122            0           0     0     644     12776     `
+/129            0           0     0     644     28308     `
+/142            0           0     0     644     5472      `
+/148            0           0     0     644     2128      `
+/156            0           0     0     644     1804      `
+/169            0           0     0     644     8420      `
+/190            0           0     0     644     6800      `
+/210            0           0     0     644     3676      `
+/222            0           0     0     644     19504     `
+/235            0           0     0     644     7800      `
+/247            0           0     0     644     8568      `
+/255            0           0     0     644     7224      `
+/263            0           0     0     644     13784     `
+/269            0           0     0     644     103348    `
+/279            0           0     0     644     27104     `
+/286            0           0     0     644     2664      `
+/299            0           0     0     644     3312      `
+/310            0           0     0     644     23108     `
+/333            0           0     0     644     24556     `
+/358            0           0     0     644     15020     `
+/383            0           0     0     644     6856      `
+/407            0           0     0     644     16752     `
+/442            0           0     0     644     20672     `
+/476            0           0     0     644     4852      `
+/511            0           0     0     644     7424      `
+/551            0           0     0     644     12788     `
+/589            0           0     0     644     12328     `

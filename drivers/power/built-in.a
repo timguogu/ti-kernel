@@ -1,0 +1,21 @@
+!<thin>
+//                                              236       `
+reset/gpio-poweroff.o/
+reset/gpio-restart.o/
+supply/power_supply_core.o/
+supply/power_supply_sysfs.o/
+supply/power_supply_leds.o/
+supply/power_supply_hwmon.o/
+supply/act8945a_charger.o/
+supply/sbs-battery.o/
+supply/tps65090-charger.o/
+
+/0             /0           0     0     644     5756      `
+/23             0           0     0     644     6308      `
+/45             0           0     0     644     38296     `
+/73             0           0     0     644     13544     `
+/102            0           0     0     644     3228      `
+/130            0           0     0     644     6060      `
+/159            0           0     0     644     9104      `
+/186            0           0     0     644     18980     `
+/208            0           0     0     644     9488      `

@@ -1,0 +1,8 @@
+!<thin>
+//                                              48        `
+watchdog_core.o/
+watchdog_dev.o/
+stpmic1_wdt.o/
+/0             /0           0     0     644     11756     `
+/17             0           0     0     644     13624     `
+/33             0           0     0     644     5452      `

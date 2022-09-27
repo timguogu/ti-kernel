@@ -1,0 +1,1 @@
+cmd_drivers/tty/serial/built-in.a := rm -f drivers/tty/serial/built-in.a; arm-none-linux-gnueabihf-ar cDPrST drivers/tty/serial/built-in.a drivers/tty/serial/serial_core.o drivers/tty/serial/earlycon.o drivers/tty/serial/8250/built-in.a drivers/tty/serial/bcm63xx_uart.o drivers/tty/serial/serial_mctrl_gpio.o

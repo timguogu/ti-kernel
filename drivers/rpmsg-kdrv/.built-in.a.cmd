@@ -1,0 +1,1 @@
+cmd_drivers/rpmsg-kdrv/built-in.a := rm -f drivers/rpmsg-kdrv/built-in.a; arm-none-linux-gnueabihf-ar cDPrST drivers/rpmsg-kdrv/built-in.a drivers/rpmsg-kdrv/rpmsg_kdrv.o drivers/rpmsg-kdrv/rpmsg_kdrv_display.o

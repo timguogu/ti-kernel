@@ -1,0 +1,16 @@
+!<thin>
+//                                              156       `
+phy-core.o/
+phy-core-mipi-dphy.o/
+cadence/phy-cadence-torrent.o/
+cadence/phy-cadence-sierra.o/
+ti/phy-omap-control.o/
+ti/phy-ti-pipe3.o/
+ti/phy-gmii-sel.o/
+/0              0           0     0     644     33228     `
+/12             0           0     0     644     4084      `
+/34             0           0     0     644     58824     `
+/65             0           0     0     644     39596     `
+/95             0           0     0     644     9688      `
+/118            0           0     0     644     12640     `
+/137            0           0     0     644     9368      `

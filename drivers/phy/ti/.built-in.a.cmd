@@ -1,0 +1,1 @@
+cmd_drivers/phy/ti/built-in.a := rm -f drivers/phy/ti/built-in.a; arm-none-linux-gnueabihf-ar cDPrST drivers/phy/ti/built-in.a drivers/phy/ti/phy-omap-control.o drivers/phy/ti/phy-ti-pipe3.o drivers/phy/ti/phy-gmii-sel.o

@@ -1,0 +1,1 @@
+cmd_drivers/thermal/ti-soc-thermal/built-in.a := rm -f drivers/thermal/ti-soc-thermal/built-in.a; arm-none-linux-gnueabihf-ar cDPrST drivers/thermal/ti-soc-thermal/built-in.a drivers/thermal/ti-soc-thermal/ti-bandgap.o drivers/thermal/ti-soc-thermal/ti-thermal-common.o

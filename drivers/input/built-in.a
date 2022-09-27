@@ -1,0 +1,50 @@
+!<thin>
+//                                              422       `
+input.o/
+input-compat.o/
+input-mt.o/
+input-poller.o/
+ff-core.o/
+input-leds.o/
+joydev.o/
+evdev.o/
+keyboard/atkbd.o/
+keyboard/gpio_keys.o/
+mouse/elan_i2c_core.o/
+mouse/elan_i2c_i2c.o/
+mouse/psmouse-base.o/
+mouse/synaptics.o/
+mouse/focaltech.o/
+mouse/alps.o/
+mouse/byd.o/
+mouse/elantech.o/
+mouse/logips2pp.o/
+mouse/trackpoint.o/
+mouse/cypress_ps2.o/
+mouse/psmouse-smbus.o/
+touchscreen/of_touchscreen.o/
+misc/stpmic1_onkey.o/
+/0              0           0     0     644     51900     `
+/9              0           0     0     644     3548      `
+/25             0           0     0     644     9976      `
+/37             0           0     0     644     7536      `
+/53             0           0     0     644     7132      `
+/64             0           0     0     644     6140      `
+/78             0           0     0     644     16716     `
+/88             0           0     0     644     19712     `
+/97             0           0     0     644     34848     `
+/115            0           0     0     644     15928     `
+/137           /0           0     0     644     21536     `
+/160            0           0     0     644     12360     `
+/182            0           0     0     644     30652     `
+/204            0           0     0     644     25636     `
+/223            0           0     0     644     5708      `
+/242            0           0     0     644     33216     `
+/256            0           0     0     644     5044      `
+/269            0           0     0     644     28356     `
+/287            0           0     0     644     6500      `
+/306            0           0     0     644     11108     `
+/326            0           0     0     644     8112      `
+/347           /0           0     0     644     5588      `
+/370            0           0     0     644     6220      `
+/400           /0           0     0     644     7244      `

@@ -1,0 +1,11 @@
+!<thin>
+//                                              70        `
+pcie-cadence.o/
+pcie-cadence-host.o/
+pcie-cadence-ep.o/
+pci-j721e.o/
+
+/0              0           0     0     644     4852      `
+/16             0           0     0     644     7424      `
+/37             0           0     0     644     12788     `
+/56             0           0     0     644     12328     `

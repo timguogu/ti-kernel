@@ -1,0 +1,1 @@
+cmd_drivers/bus/built-in.a := rm -f drivers/bus/built-in.a; arm-none-linux-gnueabihf-ar cDPrST drivers/bus/built-in.a drivers/bus/omap-ocp2scp.o drivers/bus/simple-pm-bus.o drivers/bus/ti-pwmss.o drivers/bus/ti-sysc.o

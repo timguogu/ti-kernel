@@ -1,0 +1,1 @@
+cmd_drivers/gpu/drm/tilcdc/built-in.a := rm -f drivers/gpu/drm/tilcdc/built-in.a; arm-none-linux-gnueabihf-ar cDPrST drivers/gpu/drm/tilcdc/built-in.a drivers/gpu/drm/tilcdc/tilcdc_plane.o drivers/gpu/drm/tilcdc/tilcdc_crtc.o drivers/gpu/drm/tilcdc/tilcdc_panel.o drivers/gpu/drm/tilcdc/tilcdc_external.o drivers/gpu/drm/tilcdc/tilcdc_drv.o

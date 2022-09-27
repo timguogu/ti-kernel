@@ -1,0 +1,1 @@
+cmd_sound/soc/ti/built-in.a := rm -f sound/soc/ti/built-in.a; arm-none-linux-gnueabihf-ar cDPrST sound/soc/ti/built-in.a sound/soc/ti/edma-pcm.o sound/soc/ti/sdma-pcm.o sound/soc/ti/udma-pcm.o sound/soc/ti/davinci-mcasp.o

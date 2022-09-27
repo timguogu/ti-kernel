@@ -1,0 +1,1 @@
+cmd_drivers/pwm/built-in.a := rm -f drivers/pwm/built-in.a; arm-none-linux-gnueabihf-ar cDPrST drivers/pwm/built-in.a drivers/pwm/core.o drivers/pwm/sysfs.o drivers/pwm/pwm-omap-dmtimer.o drivers/pwm/pwm-tiecap.o drivers/pwm/pwm-tiehrpwm.o

@@ -1,0 +1,20 @@
+!<thin>
+//                                              132       `
+core.o/
+pinctrl-utils.o/
+pinmux.o/
+pinconf.o/
+devicetree.o/
+pinconf-generic.o/
+pinctrl-palmas.o/
+pinctrl-single.o/
+pinctrl-stmfx.o/
+/0              0           0     0     644     53964     `
+/8             /0           0     0     644     5544      `
+/25             0           0     0     644     17120     `
+/35             0           0     0     644     7044      `
+/46             0           0     0     644     7440      `
+/60             0           0     0     644     11540     `
+/79             0           0     0     644     21816     `
+/97             0           0     0     644     24972     `
+/115           /0           0     0     644     15608     `

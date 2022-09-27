@@ -1,0 +1,42 @@
+!<thin>
+//                                              340       `
+core/fb_cmdline.o/
+core/fb_notify.o/
+core/fbmem.o/
+core/fbmon.o/
+core/fbcmap.o/
+core/fbsysfs.o/
+core/modedb.o/
+core/fbcvt.o/
+core/fb_defio.o/
+core/fbcon.o/
+core/bitblit.o/
+core/softcursor.o/
+core/cfbfillrect.o/
+core/cfbcopyarea.o/
+core/cfbimgblt.o/
+core/sysfillrect.o/
+core/syscopyarea.o/
+core/sysimgblt.o/
+core/fb_sys_fops.o/
+ssd1307fb.o/
+/0              0           0     0     644     4264      `
+/19             0           0     0     644     3404      `
+/37             0           0     0     644     27672     `
+/51             0           0     0     644     5104      `
+/65             0           0     0     644     9364      `
+/80             0           0     0     644     10676     `
+/96             0           0     0     644     17400     `
+/111            0           0     0     644     4868      `
+/125            0           0     0     644     6996      `
+/142            0           0     0     644     36768     `
+/156            0           0     0     644     6636      `
+/172            0           0     0     644     2420      `
+/191            0           0     0     644     5580      `
+/211            0           0     0     644     4236      `
+/231            0           0     0     644     3876      `
+/249            0           0     0     644     5572      `
+/269            0           0     0     644     4300      `
+/289            0           0     0     644     3852      `
+/307            0           0     0     644     3912      `
+/327            0           0     0     644     18496     `

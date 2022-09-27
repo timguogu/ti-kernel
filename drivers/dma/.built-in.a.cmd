@@ -1,0 +1,1 @@
+cmd_drivers/dma/built-in.a := rm -f drivers/dma/built-in.a; arm-none-linux-gnueabihf-ar cDPrST drivers/dma/built-in.a drivers/dma/dmaengine.o drivers/dma/virt-dma.o drivers/dma/of-dma.o drivers/dma/dw/built-in.a drivers/dma/fsl-edma.o drivers/dma/fsl-edma-common.o drivers/dma/mediatek/built-in.a drivers/dma/qcom/built-in.a drivers/dma/ti/built-in.a drivers/dma/xilinx/built-in.a

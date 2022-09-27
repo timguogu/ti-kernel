@@ -1,0 +1,1 @@
+cmd_drivers/phy/cadence/built-in.a := rm -f drivers/phy/cadence/built-in.a; arm-none-linux-gnueabihf-ar cDPrST drivers/phy/cadence/built-in.a drivers/phy/cadence/phy-cadence-torrent.o drivers/phy/cadence/phy-cadence-sierra.o

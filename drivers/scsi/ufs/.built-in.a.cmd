@@ -1,0 +1,1 @@
+cmd_drivers/scsi/ufs/built-in.a := rm -f drivers/scsi/ufs/built-in.a; arm-none-linux-gnueabihf-ar cDPrST drivers/scsi/ufs/built-in.a drivers/scsi/ufs/cdns-pltfrm.o drivers/scsi/ufs/ufshcd.o drivers/scsi/ufs/ufs-sysfs.o drivers/scsi/ufs/ufs_bsg.o drivers/scsi/ufs/ufshcd-pltfrm.o

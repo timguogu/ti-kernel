@@ -1,0 +1,1 @@
+cmd_drivers/media/platform/ti/built-in.a := rm -f drivers/media/platform/ti/built-in.a; arm-none-linux-gnueabihf-ar cDPrST drivers/media/platform/ti/built-in.a drivers/media/platform/ti/cal/built-in.a drivers/media/platform/ti/vpe/built-in.a drivers/media/platform/ti/j721e-csi2rx/built-in.a

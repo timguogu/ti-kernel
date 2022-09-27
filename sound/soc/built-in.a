@@ -1,0 +1,36 @@
+!<thin>
+//                                              252       `
+soc-core.o/
+soc-dapm.o/
+soc-jack.o/
+soc-utils.o/
+soc-dai.o/
+soc-component.o/
+soc-pcm.o/
+soc-devres.o/
+soc-ops.o/
+soc-link.o/
+soc-card.o/
+soc-generic-dmaengine-pcm.o/
+codecs/hdmi-codec.o/
+ti/edma-pcm.o/
+ti/sdma-pcm.o/
+ti/udma-pcm.o/
+ti/davinci-mcasp.o/
+/0              0           0     0     644     63744     `
+/12             0           0     0     644     72544     `
+/24             0           0     0     644     11168     `
+/36             0           0     0     644     7384      `
+/49             0           0     0     644     24172     `
+/60            /0           0     0     644     26560     `
+/77             0           0     0     644     40432     `
+/88             0           0     0     644     5100      `
+/102            0           0     0     644     19748     `
+/113            0           0     0     644     6260      `
+/125            0           0     0     644     7864      `
+/137            0           0     0     644     10152     `
+/166            0           0     0     644     12076     `
+/187            0           0     0     644     3204      `
+/202            0           0     0     644     3060      `
+/217            0           0     0     644     2784      `
+/232           /0           0     0     644     30652     `

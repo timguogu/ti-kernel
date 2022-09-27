@@ -1,0 +1,12 @@
+!<thin>
+//                                              80        `
+tilcdc_plane.o/
+tilcdc_crtc.o/
+tilcdc_panel.o/
+tilcdc_external.o/
+tilcdc_drv.o/
+/0              0           0     0     644     3356      `
+/16             0           0     0     644     16992     `
+/31             0           0     0     644     9460      `
+/47             0           0     0     644     4076      `
+/66             0           0     0     644     15448     `

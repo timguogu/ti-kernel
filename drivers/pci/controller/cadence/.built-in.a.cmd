@@ -1,0 +1,1 @@
+cmd_drivers/pci/controller/cadence/built-in.a := rm -f drivers/pci/controller/cadence/built-in.a; arm-none-linux-gnueabihf-ar cDPrST drivers/pci/controller/cadence/built-in.a drivers/pci/controller/cadence/pcie-cadence.o drivers/pci/controller/cadence/pcie-cadence-host.o drivers/pci/controller/cadence/pcie-cadence-ep.o drivers/pci/controller/cadence/pci-j721e.o

@@ -1,0 +1,13 @@
+!<thin>
+//                                              76        `
+spi.o/
+spi-mem.o/
+spi-cadence-quadspi.o/
+spi-omap2-mcspi.o/
+spi-ti-qspi.o/
+
+/0              0           0     0     644     77796     `
+/7              0           0     0     644     18312     `
+/18             0           0     0     644     26236     `
+/41             0           0     0     644     18724     `
+/60             0           0     0     644     13940     `

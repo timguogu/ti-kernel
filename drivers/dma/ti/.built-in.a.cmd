@@ -1,0 +1,1 @@
+cmd_drivers/dma/ti/built-in.a := rm -f drivers/dma/ti/built-in.a; arm-none-linux-gnueabihf-ar cDPrST drivers/dma/ti/built-in.a drivers/dma/ti/cppi41.o drivers/dma/ti/edma.o drivers/dma/ti/omap-dma.o drivers/dma/ti/dma-crossbar.o

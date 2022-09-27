@@ -1,0 +1,28 @@
+!<thin>
+//                                              256       `
+thermal_core.o/
+thermal_sysfs.o/
+thermal_helpers.o/
+thermal_hwmon.o/
+thermal_of.o/
+gov_fair_share.o/
+gov_bang_bang.o/
+gov_step_wise.o/
+gov_user_space.o/
+cpufreq_cooling.o/
+devfreq_cooling.o/
+ti-soc-thermal/ti-bandgap.o/
+ti-soc-thermal/ti-thermal-common.o/
+/0              0           0     0     644     29644     `
+/16            /0           0     0     644     15820     `
+/33             0           0     0     644     6692      `
+/52            /0           0     0     644     6980      `
+/69             0           0     0     644     17976     `
+/83             0           0     0     644     2500      `
+/101           /0           0     0     644     2920      `
+/118           /0           0     0     644     2924      `
+/135            0           0     0     644     2516      `
+/153            0           0     0     644     7012      `
+/172            0           0     0     644     8796      `
+/191            0           0     0     644     16648     `
+/220            0           0     0     644     4880      `

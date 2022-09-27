@@ -1,0 +1,1 @@
+cmd_drivers/media/cec/core/built-in.a := rm -f drivers/media/cec/core/built-in.a; arm-none-linux-gnueabihf-ar cDPrST drivers/media/cec/core/built-in.a drivers/media/cec/core/cec-core.o drivers/media/cec/core/cec-adap.o drivers/media/cec/core/cec-api.o

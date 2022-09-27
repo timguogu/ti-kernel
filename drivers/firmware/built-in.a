@@ -1,0 +1,33 @@
+!<thin>
+//                                              234       `
+dmi_scan.o/
+trusted_foundations.o/
+efi/efi.o/
+efi/vars.o/
+efi/reboot.o/
+efi/memattr.o/
+efi/tpm.o/
+efi/capsule.o/
+efi/memmap.o/
+efi/fdtparams.o/
+efi/esrt.o/
+efi/efi-pstore.o/
+efi/runtime-wrappers.o/
+efi/efi-init.o/
+efi/arm-runtime.o/
+
+/0              0           0     0     644     21828     `
+/12             0           0     0     644     3896      `
+/35             0           0     0     644     20448     `
+/46             0           0     0     644     24288     `
+/58             0           0     0     644     3404      `
+/72             0           0     0     644     4764      `
+/87             0           0     0     644     4012      `
+/98             0           0     0     644     6112      `
+/113            0           0     0     644     5628      `
+/127            0           0     0     644     3100      `
+/144            0           0     0     644     9244      `
+/156            0           0     0     644     10880     `
+/174            0           0     0     644     13780     `
+/198            0           0     0     644     8508      `
+/214            0           0     0     644     4356      `

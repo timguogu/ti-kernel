@@ -1,0 +1,95 @@
+!<thin>
+//                                              688       `
+id.o/
+io.o/
+control.o/
+devices.o/
+fb.o/
+pm.o/
+common.o/
+dma.o/
+wd_timer.o/
+display.o/
+i2c.o/
+hdq1w.o/
+omap_hwmod.o/
+omap_device.o/
+omap-headsmp.o/
+sram.o/
+omap_hwmod_reset.o/
+omap_hwmod_common_data.o/
+omap-smc.o/
+omap-secure.o/
+pmic-cpcap.o/
+am33xx-restart.o/
+pm33xx-core.o/
+sleep33xx.o/
+pm-debug.o/
+prm_common.o/
+cm_common.o/
+prm33xx.o/
+cm33xx.o/
+voltage.o/
+vc.o/
+vp.o/
+powerdomain.o/
+powerdomain-common.o/
+powerdomains33xx_data.o/
+clockdomain.o/
+clockdomains33xx_data.o/
+clock.o/
+omap_hwmod_common_ipblock_data.o/
+omap_hwmod_33xx_data.o/
+omap_hwmod_33xx_43xx_interconnect_data.o/
+omap_hwmod_33xx_43xx_ipblock_data.o/
+board-generic.o/
+pdata-quirks.o/
+omap_phy_internal.o/
+omap-iommu.o/
+
+/0              0           0     0     644     12324     `
+/6              0           0     0     644     3696      `
+/12             0           0     0     644     7244      `
+/23             0           0     0     644     1208      `
+/34             0           0     0     644     1256      `
+/40             0           0     0     644     3696      `
+/46             0           0     0     644     1556      `
+/56             0           0     0     644     2132      `
+/63             0           0     0     644     2456      `
+/75             0           0     0     644     3184      `
+/86             0           0     0     644     1920      `
+/93             0           0     0     644     1880      `
+/102            0           0     0     644     33028     `
+/116            0           0     0     644     11128     `
+/131            0           0     0     644     1192      `
+/147            0           0     0     644     1976      `
+/155            0           0     0     644     1652      `
+/175            0           0     0     644     1344      `
+/201            0           0     0     644     948       `
+/213            0           0     0     644     4664      `
+/228            0           0     0     644     4076      `
+/242            0           0     0     644     1228      `
+/260            0           0     0     644     7740      `
+/275            0           0     0     644     2120      `
+/288            0           0     0     644     7420      `
+/300            0           0     0     644     12680     `
+/314            0           0     0     644     6960      `
+/327            0           0     0     644     5832      `
+/338            0           0     0     644     4748      `
+/348            0           0     0     644     5408      `
+/359            0           0     0     644     6344      `
+/365            0           0     0     644     5572      `
+/371            0           0     0     644     9780      `
+/386            0           0     0     644     2076      `
+/408            0           0     0     644     3956      `
+/433            0           0     0     644     9144      `
+/448            0           0     0     644     4228      `
+/473            0           0     0     644     2388      `
+/482            0           0     0     644     1364      `
+/516            0           0     0     644     4836      `
+/540            0           0     0     644     2204      `
+/582            0           0     0     644     4792      `
+/619           /0           0     0     644     3004      `
+/636            0           0     0     644     5076      `
+/652            0           0     0     644     2920      `
+/673            0           0     0     644     3820      `

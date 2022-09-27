@@ -1,0 +1,14 @@
+!<thin>
+//                                              90        `
+timer-of.o/
+timer-probe.o/
+mmio.o/
+timer-ti-dm.o/
+timer-ti-dm-systimer.o/
+timer-ti-32k.o/
+/0              0           0     0     644     3572      `
+/12             0           0     0     644     2700      `
+/27             0           0     0     644     2104      `
+/35             0           0     0     644     16324     `
+/50             0           0     0     644     16856     `
+/74             0           0     0     644     4188      `

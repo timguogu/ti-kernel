@@ -1,0 +1,1 @@
+cmd_drivers/net/mdio/built-in.a := rm -f drivers/net/mdio/built-in.a; arm-none-linux-gnueabihf-ar cDPrST drivers/net/mdio/built-in.a drivers/net/mdio/of_mdio.o drivers/net/mdio/mdio-mux.o drivers/net/mdio/mdio-mux-multiplexer.o
