@@ -17,12 +17,12 @@
 @ -I ./arch/arm/include/generated -I ./include -I ./arch/arm/include/uapi
 @ -I ./arch/arm/include/generated/uapi -I ./include/uapi
 @ -I ./include/generated/uapi
-@ -iprefix /home/peter/ti-processor-sdk-linux-am335x-evm-08.02.00.24/linux-devkit/sysroots/x86_64-arago-linux/usr/bin/../lib/gcc/arm-none-linux-gnueabihf/9.2.1/
-@ -isysroot /home/peter/ti-processor-sdk-linux-am335x-evm-08.02.00.24/linux-devkit/sysroots/x86_64-arago-linux/usr/bin/../arm-none-linux-gnueabihf/libc
+@ -iprefix /home/peter/gcc-arm-9.2-2019.12-x86_64-arm-none-linux-gnueabihf/bin/../lib/gcc/arm-none-linux-gnueabihf/9.2.1/
+@ -isysroot /home/peter/gcc-arm-9.2-2019.12-x86_64-arm-none-linux-gnueabihf/bin/../arm-none-linux-gnueabihf/libc
 @ -D __KERNEL__ -D __LINUX_ARM_ARCH__=7 -U arm
 @ -D KBUILD_MODFILE="./asm-offsets" -D KBUILD_BASENAME="asm_offsets"
 @ -D KBUILD_MODNAME="asm_offsets"
-@ -isystem /home/peter/ti-processor-sdk-linux-am335x-evm-08.02.00.24/linux-devkit/sysroots/x86_64-arago-linux/usr/bin/../lib/gcc/arm-none-linux-gnueabihf/9.2.1/include
+@ -isystem /home/peter/gcc-arm-9.2-2019.12-x86_64-arm-none-linux-gnueabihf/bin/../lib/gcc/arm-none-linux-gnueabihf/9.2.1/include
 @ -include ./include/linux/kconfig.h
 @ -include ./include/linux/compiler_types.h
 @ -MMD arch/arm/kernel/.asm-offsets.s.d arch/arm/kernel/asm-offsets.c
